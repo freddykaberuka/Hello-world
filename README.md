@@ -6,5 +6,3 @@
  - No framework used
  - Linter
 
- ### Authors
- GitHub: @freddykaberuka
