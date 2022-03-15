@@ -4,5 +4,5 @@
  ### Built With
  - Html,css
  - No framework used
- - Linter
+ - Lint
 
