@@ -10,8 +10,6 @@
 
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
-
 ### Setup
 
 Clone or Download Repository
@@ -19,7 +17,7 @@ Extract the download Folder
 
 ### Install
 
-No need of Installation
+after cloning Repository open the folder and run npm install to install all the modules in your local storage
 
 ### Usage
 
@@ -27,7 +25,7 @@ Open the extracted folder and double click on index.html. BOOM!!
 
 and for the contributer i recommended to use [VSCode](https://code.visualstudio.com/) as text editor and Live Server installed on it.
 
-👤 **Author**
+## 👤 **Freddy KABERUKA**
 
 - GitHub: [@freddykaberuka](https://github.com/freddykaberuka)
 - Twitter: [@trojanx07](https://twitter.com/trojanx07)
