@@ -1,0 +1,27 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "this project, is setted up for Learning Purpose .No complex coding is required for this exercise. the goal here is to master all of this tools (git,github workflow and linter).",
+  "main": "index.js",
+  "dependencies": {
+    "hint": "^6.1.10",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint": "^13.13.1",
+    "stylelint-scss": "^3.21.0",
+    "stylelint-csstree-validator": "^1.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freddykaberuka/Hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freddykaberuka/Hello-world/issues"
+  },
+  "homepage": "https://github.com/freddykaberuka/Hello-world#readme"
+}
